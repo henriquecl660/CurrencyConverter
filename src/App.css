@@ -1,0 +1,31 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-size: 100%;
+  color: white;
+}
+
+.div_default{
+  margin: 0 auto;
+  text-align: center;
+  background-color: hwb(0 98% 2% / 0.897);
+  color: black;
+}
+
+table{
+  line-height: 5vh;
+}
+
+.posts {
+  list-style: none;
+  margin: 0px auto;
+  width: 800px;
+  text-align: left;
+}
+
+.error {
+  color: red;
+}
+
